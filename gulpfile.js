@@ -7,7 +7,7 @@ let
   uglify = require('gulp-uglify'),
   imagemin = require('gulp-imagemin'),
   cache = require('gulp-cache'),
-  cleanCSS = require('gulp-clean-css'),
+  cleanCSS = require('gulp-cleancss'),
   rename = require('gulp-rename'),
   autoprefixer = require('gulp-autoprefixer'),
   del = require('del'),
