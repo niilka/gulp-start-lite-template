@@ -1,0 +1,11 @@
+{
+  "name": "gulp-start-lite-template",
+  "version": "1.0.0",
+  "description": "Easy start gulp template with pug, sass, mixins",
+  "main": "]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niilka",
+  "license": "ISC"
+}
